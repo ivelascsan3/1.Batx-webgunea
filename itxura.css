@@ -2,15 +2,15 @@ img {
     border-radius: 75px;
 }
 h2 {
-    font-size: 78px;
+    font-size: 24px;
 }
 body {
     background-color:aquamarine;
-    font-family: "Trebuchet MS";
+    font-family: 'Trebuchet MS';
     color:bisque;
     text-align:center;
 }
 
 p {
-    color:chocolate
+    color:chocolate;
 }
